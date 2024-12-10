@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author CJ Gladish
+ * @author CJ Gladish, Reece Cosbey
  * @date 2024-12-09
  * @brief Tests the Deque class through a menu.
  * 
