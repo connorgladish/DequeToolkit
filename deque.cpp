@@ -1,6 +1,6 @@
 /**
  * @file deque.cpp
- * @author CJ Gladish
+ * @author CJ Gladish, Reece Cosbey
  * @date 2024-12-09
  * @brief Implements deque.h methods.
  * 
