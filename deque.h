@@ -1,6 +1,6 @@
 /**
  * @file deque.h
- * @author CJ Gladish
+ * @author CJ Gladish, Reece Cosbey
  * @date 2024-12-09
  * @brief Defines members, classes, and declarations.
  * 
